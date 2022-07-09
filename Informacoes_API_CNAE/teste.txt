@@ -1,0 +1,23 @@
+API CNAE - Classificacao Nacional de Atividades Economicas
+
+A CNAAE, Classificacao Nacional de Atividades Economicas, eh a classificacao oficialmente
+adotada pelo Sistema Estatistico Nacional na procicao de estatisticas por tipo de ativide
+economica, e pela Administracao Publica, na identificacao da atividade economica em cadastro
+e retistro de pessoa juridica. ANAE nao faz distincao entre tipo de propriedade, naturez
+juridica, tamanho do negocio e modo de operacao, uma vez que tais criterios nao interferem na
+caracterizacao da atividade em si.
+
+O IBGE eh o orgao gestor  da CNAE, responsavel pela documentacao da classificacao, desenvolvimento dos
+instrumentos de apoilo, disseminacao e atendimento aos usuarios sobre a aplicacao da classificacao.
+Compete-lhe ainda a manuntencao da classificacao e a conducao dos processos de revisao.
+
+Essa versão é uma classificação organizada de forma hierárquica com cinco níveis, 21 seções, 87 divisões,
+285 grupos, 673 classes e 1301 subclasses.
+
+As subclasses são definidas para uso da Administração Pública.
+1. Seção
+   2. Divisão
+     3. Grupo
+       4. Classe
+         5. Subclasse
+           6. Atividade econômica
